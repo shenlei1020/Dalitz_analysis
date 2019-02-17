@@ -10,6 +10,8 @@ This project chose Dalitz method and maximum likelihood to fit the data form BES
 
   This is a C++ software from Cern, which is used for data analysis, calculation and data visualization.
 
+  ![img](assets/6d81800a19d8bc3ec4420590808ba61ea8d34525.jpg)
+
 * Dalitz
 
   Dalitz is a method for analyzing the three body decay process. Dalitz plot can indicate the feature of the decay, shown below.![Canvas_1](assets/Canvas_1.gif)
